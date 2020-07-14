@@ -52,4 +52,7 @@ public class TwoNumSum {
         }
         throw new IllegalArgumentException("Not Found Two Number Which Sum is "+target);
     }
+    public static void test(){
+
+    }
 }
