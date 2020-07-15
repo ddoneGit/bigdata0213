@@ -1,4 +1,4 @@
-package com.ddone.util;
+package com.ddone.app;
 import java.io.OutputStream;
 
 import java.net.HttpURLConnection;
