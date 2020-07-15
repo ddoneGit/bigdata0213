@@ -17,5 +17,6 @@ public class IsPrimeNumber {
             }
         }
         return true;
+
     }
 }

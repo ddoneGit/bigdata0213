@@ -17,6 +17,8 @@
         <module>ElasticSearch</module>
         <module>JavaSe</module>
         <module>Redis</module>
+        <module>gmall-2020</module>
+        <module>gmall-2020/gmall-mocker</module>
     </modules>
 
 </project>
