@@ -13,7 +13,8 @@ object WordCount01 {
     val sparkConf: SparkConf = new SparkConf().setMaster("local[*]").setAppName("WordCount")
     val sc = new SparkContext(sparkConf)
     val dataRDD: RDD[String] = sc.textFile("input/word.txt")
-//    println(dataRDD.collect().mkString(","))
+
+    println(dataRDD.collect().mkString(","))
     sc.textFile("input/word.txt")
       .flatMap(_.split(" "))
       .map((_,1))
