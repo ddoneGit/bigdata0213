@@ -24,8 +24,5 @@ public class RecursionTest {
         }else {
             return tailRecSum(num - 1, sum+num);
         }
-
-
-
     }
 }
