@@ -1,6 +1,4 @@
-package com.javaSe.review;
-
-import java.util.Arrays;
+package com.javase.review;
 
 /**
  * @author ddone

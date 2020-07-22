@@ -1,4 +1,4 @@
-package com.javaSe.interview;
+package com.javase.interview;
 
 /**
  * @author ddone

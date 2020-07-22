@@ -1,4 +1,4 @@
-package com.javaSe.review;
+package com.javase.review;
 
 import java.util.Arrays;
 

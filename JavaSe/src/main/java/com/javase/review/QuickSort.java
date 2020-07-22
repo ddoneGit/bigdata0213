@@ -1,7 +1,6 @@
-package com.javaSe.review;
+package com.javase.review;
 
 import java.util.Arrays;
-import java.util.Date;
 
 /**
  * @author ddone
