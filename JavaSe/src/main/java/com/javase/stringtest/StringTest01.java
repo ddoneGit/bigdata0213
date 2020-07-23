@@ -21,7 +21,9 @@ public class StringTest01 {
                 map.put(c, 1);
             }
         }
-        System.out.println(map);
+        for (Character c : map.keySet()) {
+            System.out.println(c+"->"+map.get(c));
+        }
 
     }
 
