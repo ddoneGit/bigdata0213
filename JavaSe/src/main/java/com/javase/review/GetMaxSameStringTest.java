@@ -20,7 +20,6 @@ public class GetMaxSameStringTest {
         System.out.println(maxSameString);
 
     }
-
     private static String getMaxSubString(String str1, String str2) {
         String maxStr = str1.length() > str2.length() ? str1 : str2;
         String minStr = str1.length() < str2.length() ? str1 : str2;
