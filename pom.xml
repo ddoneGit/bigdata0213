@@ -18,6 +18,8 @@
         <module>JavaSe</module>
         <module>Redis</module>
         <module>Scala_Spark</module>
+        <module>Flink</module>
+        <module>JDBC</module>
     </modules>
 
 </project>
