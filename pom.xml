@@ -20,6 +20,10 @@
         <module>Scala_Spark</module>
         <module>Flink</module>
         <module>JDBC</module>
+        <module>MavenTest</module>
+        <module>HDFS</module>
+        <module>MapReduce</module>
+        <module>Kafka</module>
     </modules>
 
 </project>

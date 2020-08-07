@@ -8,7 +8,7 @@ import java.util.Properties;
  * @author ddone
  * @date 2020/7/25-20:54
  */
-public class JDBCTest {
+public class NormalJDBCTest {
     public static void main(String[] args) throws IOException, ClassNotFoundException, SQLException {
         Properties pro = new Properties();
         pro.load(ClassLoader.getSystemClassLoader().getResourceAsStream("jdbc.properties"));
