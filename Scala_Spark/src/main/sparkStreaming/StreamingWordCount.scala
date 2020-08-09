@@ -20,6 +20,5 @@ object StreamingWordCount {
       .print() //print 会打印批次信息
     ssc.start()//启动采集器
     ssc.awaitTermination()//等待采集器的结束
-
   }
 }
