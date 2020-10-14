@@ -16,7 +16,7 @@
     </modules>
     <!--统一管理jar包的版本-->
     <properties>
-        <junit.version>4.9</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
     <dependencies>
         <dependency>
